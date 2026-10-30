@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/hakugyokushu",
  "yomi": "はくぎょくしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "御集",
+  "era": "室町後期",
+  "author": "後柏原天皇",
+  "desc": "後柏原天皇の御集で、「柏玉和歌集」とも。文亀・永正・大永の御会や月次会などの詠を、四季・恋・雑に部類して収める大部の集。"
+ },
  "editions": [
   {
    "pid": "945302",
